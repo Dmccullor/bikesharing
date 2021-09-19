@@ -27,3 +27,7 @@ For the last page in our story, we have a horizontal bar chart showing the peak 
 ## Summary
 
 A reasonable conclusion from these data is that the majority of bike rentals are used for the purpose of getting to and from work. This is intuitive considering the lack of car ownership in New York City. This should be taken into account when thinking about how bike rentals might be used in Des Moines. With this in mind, it would be desirable to explore the average distance traveled. It may be less practical to get around by bike in Des Moines and commuters may be less keen on using this service for their regular commutes. A look into the age ranges may be desirable as well to determine if the differences in average age between the two cities would be a factor in the amount of rentals.
+
+<a href="https://public.tableau.com/app/profile/dylan.mccullor/viz/CitiBikeStory_16318356534150/NYCCitiBikeData?publish=yes">Tableau Story</a>
+
+
